@@ -16,9 +16,3 @@ Here are some ideas to get you started:
 -->
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=meskal1&show_icons=true&card_width=450&hide_title=true&hide=total_issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meskal1&layout=compact&card_width=340)](https://github.com/meskal1/github-readme-stats)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
