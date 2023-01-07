@@ -1,5 +1,5 @@
 # Hello there! 👋 I'm Daniel Kalach 
-## I am a front-end developer, doing things for web
+### I am a front-end developer, doing things for web
 <!--
 **meskal1/meskal1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
