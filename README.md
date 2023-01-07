@@ -1,7 +1,7 @@
 # Hello there! 👋 I'm Daniel Kalach 
 ### I am a front-end developer, I love doing things for web
 ![](https://raw.githubusercontent.com/meskal1/codewars/main/dino.gif)
-## Tools, languages, and other things that I like to work with.
+## Tools, languages, and other things that I like to work with. :star_struck:
 <!--- 
 <table>
     <tbody>
