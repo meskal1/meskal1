@@ -18,7 +18,7 @@
         </tr>
     </tbody>
 </table>
---->
+
 ![]()
 ![]()
 ![]()
@@ -40,7 +40,9 @@
 ![]()
 ![]()
 ![](https://starchart.cc/meskal1/https://github.com/meskal1/cards.svg)
-![](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) --->
+
+
 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=meskal1&show_icons=true&card_width=450&hide_title=true&hide=contribs&theme=dracula&line_height=24&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meskal1&layout=compact&card_width=342&hide_title=true&theme=dracula&hide_border=true)](https://github.com/meskal1/github-readme-stats)
