@@ -81,7 +81,10 @@ https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg
             <th>Gr&ouml;&szlig;e</th>
         </tr>
         <tr>
-            <td><img height="42" src="https://devicon-website.vercel.app/api/typescript/original.svg"><span>libraries</span></td>
+            <td>
+                <img height="42" src="https://devicon-website.vercel.app/api/typescript/original.svg">
+                <span>libraries</span>
+            </td>
             <td>08.10.2013 12:38</td>
             <td>Dateiordner</td>
             <td></td>
