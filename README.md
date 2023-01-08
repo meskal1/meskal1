@@ -81,7 +81,7 @@ https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg
             <th>Gr&ouml;&szlig;e</th>
         </tr>
         <tr>
-            <td>
+            <td valign="top">
                 <img height="42" src="https://devicon-website.vercel.app/api/typescript/original.svg">
                 <span>libraries</span>
             </td>
