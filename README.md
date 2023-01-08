@@ -17,15 +17,15 @@ https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg
             <span>TypeScript</span>
             </td>
             <td width="96" align="center">
-            <img height="48" width="48" style="max-width: 100%;" src="https://devicon-website.vercel.app/api/javascript/original.svg" alt="TypeScript">
+            <img height="48" width="48" style="max-width: 100%;" src="https://devicon-website.vercel.app/api/javascript/original.svg" alt="JavaScript">
             <span>JavaScript</span>
             </td>
             <td width="96" align="center">
-            <img height="48" width="48" style="max-width: 100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="TypeScript">
+            <img height="48" width="48" style="max-width: 100%;" src="https://devicon-website.vercel.app/api/html5/original.svg" alt="HTML">
             <span>HTML</span>
             </td>
             <td width="96" align="center">
-            <img height="48" width="48" style="max-width: 100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="TypeScript">
+            <img height="48" width="48" style="max-width: 100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS">
             <span>CSS</span>
             </td>
             <td width="96" align="center">
@@ -37,33 +37,92 @@ https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg
             <span>Rive</span>
             </td>
             <td width="96" align="center">
-            <img height="48" width="48" style="max-width: 100%;" src="https://devicon-website.vercel.app/api/aftereffects/original.svg" alt="AfterEffects">
+            <img height="48" width="48" style="max-width: 100%;" src="https://skillicons.dev/icons?i=ae" alt="AfterEffects">
             <span>AfterEffects</span>
             </td>
             <td width="96" align="center">
-            <img height="48" width="48" style="max-width: 100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="TypeScript">
-            <span>CSS</span>
+            <img height="48" width="48" style="max-width: 100%;" src="https://devicon-website.vercel.app/api/debian/original.svg" alt="Debian">
+            <span>Debian</span>
             </td>
             <td width="96" align="center">
-            <img height="48" width="48" style="max-width: 100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="TypeScript">
-            <span>CSS</span>
+            <img height="48" width="48" style="max-width: 100%;" src="https://devicon-website.vercel.app/api/eslint/original.svg" alt="Eslint">
+            <span>Eslint</span>
             </td>
         </tr>
         <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>React</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+            <td width="96" align="center">
+            <img height="48" width="48" style="max-width: 100%;" src="https://devicon-website.vercel.app/api/figma/original.svg" alt="Figma">
+            <span>Figma</span>
             </td>
-            <td width="80px" align="center">
-            <span><strong>git</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+            <td width="96" align="center">
+            <img height="48" width="48" style="max-width: 100%;" src="https://skillicons.dev/icons?i=ai" alt="Illustrator">
+            <span>Illustrator</span>
             </td>
-            <td width="80px" align="center">
-            <span><strong>GitHub</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-            <td width="80px" align="center">
-            <span><strong>Canva</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+            <td width="96" align="center">
+            <img height="48" width="48" style="max-width: 100%;" src="https://devicon-website.vercel.app/api/jest/plain.svg" alt="Jest">
+            <span>Jest</span>
+            </td>
+            <td width="96" align="center">
+            <img height="48" width="48" style="max-width: 100%;" src="https://devicon-website.vercel.app/api/jira/original.svg" alt="Jira">
+            <span>Jira</span>
+            </td>
+            <td width="96" align="center">
+            <img height="48" width="48" style="max-width: 100%;" src="https://devicon-website.vercel.app/api/materialui/original.svg" alt="MUI">
+            <span>MUI</span>
+            </td>
+            <td width="96" align="center">
+            <img height="48" width="48" style="max-width: 100%;" src="https://devicon-website.vercel.app/api/nginx/original.svg" alt="Nginx">
+            <span>Nginx</span>
+            </td>
+            <td width="96" align="center">
+            <img height="48" width="48" style="max-width: 100%;" src="https://devicon-website.vercel.app/api/nodejs/original.svg" alt="NodeJS">
+            <span>NodeJS</span>
+            </td>
+            <td width="96" align="center">
+            <img height="48" width="48" style="max-width: 100%;" src="https://skillicons.dev/icons?i=github" alt="Github">
+            <span>Github</span>
+            </td>
+            <td width="96" align="center">
+            <img height="48" width="48" style="max-width: 100%;" src="https://devicon-website.vercel.app/api/git/original.svg" alt="Git">
+            <span>Git</span>
+            </td>
+        </tr>
+          <tr valign="top">
+            <td width="96" align="center">
+            <img height="48" width="48" style="max-width: 100%;" src="https://devicon-website.vercel.app/api/raspberrypi/original.svg" alt="RaspberryPi">
+            <span>RaspberryPi</span>
+            </td>
+            <td width="96" align="center">
+            <img height="48" width="48" style="max-width: 100%;" src="https://devicon-website.vercel.app/api/react/original.svg" alt="React">
+            <span>React</span>
+            </td>
+            <td width="96" align="center">
+            <img height="48" width="48" style="max-width: 100%;" src="https://devicon-website.vercel.app/api/redux/original.svg" alt="Redux">
+            <span>Redux</span>
+            </td>
+            <td width="96" align="center">
+            <img height="48" width="48" style="max-width: 100%;" src="https://devicon-website.vercel.app/api/sass/original.svg" alt="Sass">
+            <span>Sass</span>
+            </td>
+            <td width="96" align="center">
+            <img height="48" width="48" style="max-width: 100%;" src="https://devicon-website.vercel.app/api/storybook/original.svg" alt="Storybook">
+            <span>Storybook</span>
+            </td>
+            <td width="96" align="center">
+            <img height="48" width="48" style="max-width: 100%;" src="https://devicon-website.vercel.app/api/vscode/original.svg" alt="VSCode">
+            <span>VSCode</span>
+            </td>
+            <td width="96" align="center">
+            <img height="48" width="48" style="max-width: 100%;" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="Webpack">
+            <span>Webpack</span>
+            </td>
+            <td width="96" align="center">
+            <img height="48" width="48" style="max-width: 100%;" src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67" alt="Vercel">
+            <span>Vercel</span>
+            </td>
+            <td width="96" align="center">
+            <img height="48" width="48" style="max-width: 100%;" src="https://files.cults3d.com/uploaders/13889723/illustration-file/88f914f9-4ec0-4d0c-8ebb-5edc51f4b3cd/kali_linux.jpg" alt="KaliLinux">
+            <span>KaliLinux</span>
             </td>
         </tr>
     </tbody>
