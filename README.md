@@ -21,24 +21,6 @@
 
 ![]()
 ![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
 ![](https://starchart.cc/meskal1/https://github.com/meskal1/cards.svg)
 https://www.vectorlogo.zone/util/preview.html?image=/logos/typescriptlang/typescriptlang-icon.svg
 https://devicon-website.vercel.app/api/typescript/original.svg
@@ -50,7 +32,7 @@ https://devicon-website.vercel.app/api/typescript/original.svg
         <tr valign="top">
             <td width="80px" align="center">
             <img height="42px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
-            <span fontSize='10px'>TypeScript</span><br>
+            <span font-size='10px'>TypeScript</span><br>
             </td>
             <td width="80px" align="center">
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
