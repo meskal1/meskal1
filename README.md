@@ -13,7 +13,7 @@ https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg
     <tbody>
         <tr valign="top">
             <td width="80px" align="center">
-            <img height="42" src="https://devicon-website.vercel.app/api/typescript/original.svg" alt="TypeScript">
+            <img height="48" src="https://devicon-website.vercel.app/api/typescript/original.svg" alt="TypeScript">
             <span>TypeScript</span><br>
             </td>
             <td width="80px" align="center">
