@@ -12,40 +12,40 @@ https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg
 <table width="520px">
     <tbody>
         <tr valign="top">
-            <td width="80px" align="center">
-            <img height="48" src="https://devicon-website.vercel.app/api/typescript/original.svg" alt="TypeScript">
+            <td width="96" align="center">
+            <img height="48" width="48" src="https://devicon-website.vercel.app/api/typescript/original.svg" alt="TypeScript">
             <span>TypeScript</span>
             </td>
-            <td width="80px" align="center">
-            <img height="48" width="48" style="max-width: 100%;" src="https://devicon-website.vercel.app/api/javascript/original.svg">
+            <td width="96" align="center">
+            <img height="48" width="48" style="max-width: 100%;" src="https://devicon-website.vercel.app/api/javascript/original.svg" alt="TypeScript">
             <span>JavaScript</span>
             </td>
-            <td width="80px" align="center">
-            <img height="48" width="48" style="max-width: 100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+            <td width="96" align="center">
+            <img height="48" width="48" style="max-width: 100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="TypeScript">
             <span>HTML</span>
             </td>
-            <td width="80px" align="center">
-            <img height="48" width="48" style="max-width: 100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            <td width="96" align="center">
+            <img height="48" width="48" style="max-width: 100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="TypeScript">
             <span>CSS</span>
             </td>
-            <td width="80px" align="center">
-            <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            <td width="96" align="center">
+            <img height="48" width="48" style="max-width: 100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="TypeScript">
             <span>CSS</span>
             </td>
-            <td width="80px" align="center">
-            <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            <td width="96" align="center">
+            <img height="48" width="48" style="max-width: 100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="TypeScript">
             <span>CSS</span>
             </td>
-            <td width="80px" align="center">
-            <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            <td width="96" align="center">
+            <img height="48" width="48" style="max-width: 100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="TypeScript">
             <span>CSS</span>
             </td>
-            <td width="80px" align="center">
-            <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            <td width="96" align="center">
+            <img height="48" width="48" style="max-width: 100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="TypeScript">
             <span>CSS</span>
             </td>
-            <td width="80px" align="center">
-            <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            <td width="96" align="center">
+            <img height="48" width="48" style="max-width: 100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="TypeScript">
             <span>CSS</span>
             </td>
         </tr>
