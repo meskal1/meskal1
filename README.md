@@ -29,16 +29,16 @@ https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg
             <span>CSS</span>
             </td>
             <td width="96" align="center">
-            <img height="48" width="48" style="max-width: 100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="TypeScript">
-            <span>CSS</span>
+            <img height="48" width="48" style="max-width: 100%;" src="https://play-lh.googleusercontent.com/2VNrlf-gc2gUspYuqAe7oijQG9BaaK_0F9DkSqh8gYUqKDzIguBwzEdfY5ms1Olid8w" alt="Lottie">
+            <span>Lottie</span>
             </td>
             <td width="96" align="center">
-            <img height="48" width="48" style="max-width: 100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="TypeScript">
-            <span>CSS</span>
+            <img height="48" width="48" style="max-width: 100%;" src="https://styles.redditmedia.com/t5_29vk9f/styles/communityIcon_wuwx28s2i4341.png" alt="Rive">
+            <span>Rive</span>
             </td>
             <td width="96" align="center">
-            <img height="48" width="48" style="max-width: 100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="TypeScript">
-            <span>CSS</span>
+            <img height="48" width="48" style="max-width: 100%;" src="https://devicon-website.vercel.app/api/aftereffects/original.svg" alt="AfterEffects">
+            <span>AfterEffects</span>
             </td>
             <td width="96" align="center">
             <img height="48" width="48" style="max-width: 100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="TypeScript">
