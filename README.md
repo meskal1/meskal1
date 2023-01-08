@@ -47,12 +47,12 @@
     <tbody>
         <tr valign="top">
             <td width="80px" align="center">
-            <span><strong>Python</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+            <img height="32px" src="https://devicon-website.vercel.app/api/typescript/original.svg">
+            <span><strong>TypeScript</strong></span><br>
             </td>
             <td width="80px" align="center">
-            <span><strong>Java</strong></span><br>
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+            <span><strong>JavaScript</strong></span><br>
             </td>
             <td width="80px" align="center">
             <span><strong>HTML</strong></span><br>
