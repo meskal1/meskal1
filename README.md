@@ -48,7 +48,7 @@
         <tr valign="top">
             <td width="80px" align="center">
             <img height="32px" src="https://devicon-website.vercel.app/api/typescript/original.svg">
-            <span><strong>TypeScript</strong></span><br>
+            <span>TypeScript</span><br>
             </td>
             <td width="80px" align="center">
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
