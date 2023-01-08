@@ -28,7 +28,7 @@ https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg
 ![](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) --->
 
 
-<table width="320px">
+<table width="520px">
     <tbody>
         <tr valign="top">
             <td width="80px" align="center">
