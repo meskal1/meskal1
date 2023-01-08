@@ -24,6 +24,7 @@
 ![](https://starchart.cc/meskal1/https://github.com/meskal1/cards.svg)
 https://www.vectorlogo.zone/util/preview.html?image=/logos/typescriptlang/typescriptlang-icon.svg
 https://devicon-website.vercel.app/api/typescript/original.svg
+https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg
 ![](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) --->
 
 
@@ -31,7 +32,7 @@ https://devicon-website.vercel.app/api/typescript/original.svg
     <tbody>
         <tr valign="top">
             <td width="80px" align="center">
-            <img height="32px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+            <img height="32px" src="https://devicon-website.vercel.app/api/typescript/original.svg">
             <span><sub>TypeScript</sub></span><br>
             </td>
             <td width="80px" align="center">
