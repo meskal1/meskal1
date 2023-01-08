@@ -39,7 +39,7 @@
 ![]()
 ![]()
 ![]()
-![](https://starchart.cc/{meskal1}/{[repo](https://github.com/meskal1/cards)}.svg)
+![](https://starchart.cc/{meskal1}/{https://github.com/meskal1/cards}.svg)
 ![](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=meskal1&show_icons=true&card_width=450&hide_title=true&hide=contribs&theme=dracula&line_height=24&hide_border=true)
