@@ -31,7 +31,7 @@ https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg
 <table width="520px">
     <tbody>
         <tr valign="top">
-            <td width="80px" align="center">
+            <td width="80px" height="50px" align="center">
             <img height="42" src="https://devicon-website.vercel.app/api/typescript/original.svg">
             <span><sub>TypeScript</sub></span>
             </td>
