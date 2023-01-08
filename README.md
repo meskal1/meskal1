@@ -14,19 +14,39 @@ https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg
         <tr valign="top">
             <td width="80px" align="center">
             <img height="48" src="https://devicon-website.vercel.app/api/typescript/original.svg" alt="TypeScript">
-            <span>TypeScript</span><br>
+            <span>TypeScript</span>
             </td>
             <td width="80px" align="center">
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-            <span><strong>JavaScript</strong></span><br>
+            <img height="48" src="https://devicon-website.vercel.app/api/javascript/original.svg">
+            <span>JavaScript</span>
             </td>
             <td width="80px" align="center">
-            <span><strong>HTML</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+            <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+            <span>HTML</span>
             </td>
             <td width="80px" align="center">
-            <span><strong>CSS</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            <span>CSS</span>
+            </td>
+            <td width="80px" align="center">
+            <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            <span>CSS</span>
+            </td>
+            <td width="80px" align="center">
+            <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            <span>CSS</span>
+            </td>
+            <td width="80px" align="center">
+            <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            <span>CSS</span>
+            </td>
+            <td width="80px" align="center">
+            <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            <span>CSS</span>
+            </td>
+            <td width="80px" align="center">
+            <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            <span>CSS</span>
             </td>
         </tr>
         <tr valign="top">
