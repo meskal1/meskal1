@@ -33,7 +33,7 @@ https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg
         <tr valign="top">
             <td width="80px" align="center">
             <img height="32px" src="https://devicon-website.vercel.app/api/typescript/original.svg">
-            <span><sub>TypeScript</sub></span><br>
+            <sub>TypeScript</sub><br>
             </td>
             <td width="80px" align="center">
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
