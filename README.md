@@ -49,7 +49,7 @@ https://devicon-website.vercel.app/api/typescript/original.svg
     <tbody>
         <tr valign="top">
             <td width="80px" align="center">
-            <img height="42px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/typescriptlang/typescriptlang-icon.svg">
+            <img height="42px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
             <span fontSize='10px'>TypeScript</span><br>
             </td>
             <td width="80px" align="center">
