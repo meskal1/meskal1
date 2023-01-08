@@ -31,9 +31,9 @@ https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg
 <table width="520px">
     <tbody>
         <tr valign="top">
-            <td width="80px" height="30px" align="center">
-            <img height="42" src="https://devicon-website.vercel.app/api/typescript/original.svg">
-            <span><sub>TypeScript</sub></span>
+            <td width="80px" align="center">
+            <img height="42" src="https://devicon-website.vercel.app/api/typescript/original.svg" alt="TypeScript">
+            <span>TypeScript</span><br>
             </td>
             <td width="80px" align="center">
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -71,54 +71,3 @@ https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=meskal1&show_icons=true&card_width=450&hide_title=true&hide=contribs&theme=dracula&line_height=24&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meskal1&layout=compact&card_width=342&hide_title=true&theme=dracula&hide_border=true)](https://github.com/meskal1/github-readme-stats)
 <!--- ![](https://komarev.com/ghpvc/?username=meskal1) --->
-
-<table id="example">
-    <tbody>
-        <tr>
-            <th>Name</th>
-            <th>&Auml;nderungsdatum</th>
-            <th>Typ</th>
-            <th>Gr&ouml;&szlig;e</th>
-        </tr>
-        <tr>
-            <td valign="top">
-                <img height="42" src="https://devicon-website.vercel.app/api/typescript/original.svg">
-                <span>libraries</span>
-            </td>
-            <td>08.10.2013 12:38</td>
-            <td>Dateiordner</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>views</td>
-            <td>08.10.2013 12:38</td>
-            <td>Dateiordner</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>css</td>
-            <td>18.05.2014 11:08</td>
-            <td>Dateiordner</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>.htaccess</td>
-            <td>03.06.2013 14:29</td>
-            <td>HTACCESS-Datei</td>
-            <td>1 KB</td>
-        </tr>
-        <tr>
-            <td>config.php</td>
-            <td>03.06.2013 14:29</td>
-            <td>PHP-Datei</td>
-            <td>3 KB</td>
-        </tr>
-        <tr>
-            <td>blank.html</td>
-            <td>18.05.2014 11:08</td>
-            <td>HTLM-Datei</td>
-            <td>1 KB</td>
-        </tr>
-    </tbody>
-</table>
-
