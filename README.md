@@ -67,7 +67,7 @@ https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg
             <span>Eslint</span>
             </td>
             <td width="96" align="center">
-            <img height="48" width="50" style="max-width: 100%;" src="https://devicon-website.vercel.app/api/jira/original.svg" alt="Jira">
+            <img height="48" width="49" style="max-width: 100%;" src="https://devicon-website.vercel.app/api/jira/original.svg" alt="Jira">
             <span>Jira</span>
             </td>
             <td width="96" align="center">
