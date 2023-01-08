@@ -13,6 +13,14 @@ https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg
     <tbody>
         <tr valign="top">
             <td width="96" align="center">
+            <img height="48" width="48" style="max-width: 100%;" src="https://devicon-website.vercel.app/api/react/original.svg" alt="React">
+            <span>React</span>
+            </td>
+            <td width="96" align="center">
+            <img height="48" width="48" style="max-width: 100%;" src="https://devicon-website.vercel.app/api/redux/original.svg" alt="Redux">
+            <span>Redux</span>
+            </td>
+            <td width="96" align="center">
             <img height="48" width="48" src="https://devicon-website.vercel.app/api/typescript/original.svg" alt="TypeScript">
             <span>TypeScript</span>
             </td>
@@ -29,16 +37,8 @@ https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg
             <span>CSS</span>
             </td>
             <td width="96" align="center">
-            <img height="48" width="48" style="max-width: 100%;" src="https://play-lh.googleusercontent.com/2VNrlf-gc2gUspYuqAe7oijQG9BaaK_0F9DkSqh8gYUqKDzIguBwzEdfY5ms1Olid8w" alt="Lottie">
-            <span>Lottie</span>
-            </td>
-            <td width="96" align="center">
-            <img height="48" width="48" style="max-width: 100%;" src="https://styles.redditmedia.com/t5_29vk9f/styles/communityIcon_wuwx28s2i4341.png" alt="Rive">
-            <span>Rive</span>
-            </td>
-            <td width="96" align="center">
-            <img height="48" width="48" style="max-width: 100%;" src="https://skillicons.dev/icons?i=ae" alt="AfterEffects">
-            <span>AfterEffects</span>
+            <img height="48" width="48" style="max-width: 100%;" src="https://devicon-website.vercel.app/api/sass/original.svg" alt="Sass">
+            <span>Sass</span>
             </td>
             <td width="96" align="center">
             <img height="48" width="48" style="max-width: 100%;" src="https://devicon-website.vercel.app/api/debian/original.svg" alt="Debian">
@@ -79,8 +79,8 @@ https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg
             <span>NodeJS</span>
             </td>
             <td width="96" align="center">
-            <img height="48" width="48" style="max-width: 100%;" src="https://skillicons.dev/icons?i=github" alt="Github">
-            <span>Github</span>
+            <img height="48" width="48" style="max-width: 100%;" src="https://cdn.worldvectorlogo.com/logos/prettier-2.svg" alt="Prettier">
+            <span>Prettier</span>
             </td>
             <td width="96" align="center">
             <img height="48" width="48" style="max-width: 100%;" src="https://devicon-website.vercel.app/api/git/original.svg" alt="Git">
@@ -93,16 +93,16 @@ https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg
             <span>RaspberryPi</span>
             </td>
             <td width="96" align="center">
-            <img height="48" width="48" style="max-width: 100%;" src="https://devicon-website.vercel.app/api/react/original.svg" alt="React">
-            <span>React</span>
+            <img height="48" width="48" style="max-width: 100%;" src="https://play-lh.googleusercontent.com/2VNrlf-gc2gUspYuqAe7oijQG9BaaK_0F9DkSqh8gYUqKDzIguBwzEdfY5ms1Olid8w" alt="Lottie">
+            <span>Lottie</span>
             </td>
             <td width="96" align="center">
-            <img height="48" width="48" style="max-width: 100%;" src="https://devicon-website.vercel.app/api/redux/original.svg" alt="Redux">
-            <span>Redux</span>
+            <img height="48" width="48" style="max-width: 100%;" src="https://styles.redditmedia.com/t5_29vk9f/styles/communityIcon_wuwx28s2i4341.png" alt="Rive">
+            <span>Rive</span>
             </td>
             <td width="96" align="center">
-            <img height="48" width="48" style="max-width: 100%;" src="https://devicon-website.vercel.app/api/sass/original.svg" alt="Sass">
-            <span>Sass</span>
+            <img height="48" width="48" style="max-width: 100%;" src="https://skillicons.dev/icons?i=ae" alt="AfterEffects">
+            <span>AfterEffects</span>
             </td>
             <td width="96" align="center">
             <img height="48" width="48" style="max-width: 100%;" src="https://devicon-website.vercel.app/api/storybook/original.svg" alt="Storybook">
