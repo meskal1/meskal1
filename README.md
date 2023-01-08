@@ -17,15 +17,15 @@ https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg
             <span>TypeScript</span>
             </td>
             <td width="80px" align="center">
-            <img height="48" width="48" src="https://devicon-website.vercel.app/api/javascript/original.svg">
+            <img height="48" width="48" style="max-width: 100%;" src="https://devicon-website.vercel.app/api/javascript/original.svg">
             <span>JavaScript</span>
             </td>
             <td width="80px" align="center">
-            <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+            <img height="48" width="48" style="max-width: 100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
             <span>HTML</span>
             </td>
             <td width="80px" align="center">
-            <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            <img height="48" width="48" style="max-width: 100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
             <span>CSS</span>
             </td>
             <td width="80px" align="center">
