@@ -24,3 +24,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meskal1&layout=compact&card_width=342&hide_title=true&theme=dracula&hide_border=true)](https://github.com/meskal1/github-readme-stats)
 <!--- ![](https://komarev.com/ghpvc/?username=meskal1) --->
 ![](https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white)
+![](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
