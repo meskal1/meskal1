@@ -129,7 +129,7 @@ https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg
 </table>
 
 ![Daniel's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=meskal1&show_icons=true&hide_title=true&card_width=200&hide=contribs&theme=dracula&line_height=25&hide_border=true)
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=meskal1&layout=compact&card_width=290&hide_title=true&theme=dracula&hide_border=true)](https://github.com/meskal1/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=meskal1&layout=compact&card_width=290&hide_title=true&theme=dracula&hide_border=true)](https://github.com/meskal1/github-readme-stats-sigma-five)
 <!--- ![](https://komarev.com/ghpvc/?username=meskal1) --->
 ## Contacts:
 
