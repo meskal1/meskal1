@@ -128,8 +128,8 @@ https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg
     </tbody>
 </table>
 
-![Daniel's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=meskal1&show_icons=true&hide_title=true&card_width=200&hide=contribs&theme=dracula&line_height=25&hide_border=true)
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=meskal1&layout=compact&card_width=290&hide_title=true&theme=dracula&hide_border=true)](https://github.com/meskal1/github-readme-stats-sigma-five)
+![Daniel's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=meskal1&show_icons=true&hide_title=true&hide=contribs&theme=dracula&line_height=25&hide_border=true&card_width=200)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=meskal1&layout=compact&card_width=290&hide_title=true&theme=dracula&hide_border=true)](https://github.com/meskal1/github-readme-stats)
 <!--- ![](https://komarev.com/ghpvc/?username=meskal1) --->
 ## Contacts:
 
