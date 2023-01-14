@@ -131,5 +131,5 @@ https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg
 ![Daniel's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=meskal1&show_icons=true&hide_title=true&hide=contribs&theme=dracula&line_height=25&hide_border=true&card_width=200)
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=meskal1&layout=compact&card_width=290&hide_title=true&theme=dracula&hide_border=true)](https://github.com/meskal1/github-readme-stats)
 <!--- ![](https://komarev.com/ghpvc/?username=meskal1) --->
-## Contacts:
+## Contacts: <a href='https://www.linkedin.com/in/daniilkalach/'><img height="20" width="20" style="max-width: 100%;" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" alt="Rive"></a>
 
