@@ -132,4 +132,4 @@ https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=meskal1&layout=compact&card_width=290&hide_title=true&theme=dracula&hide_border=true)](https://github.com/meskal1/github-readme-stats)
 <!--- ![](https://komarev.com/ghpvc/?username=meskal1) --->
 ## Contacts: <a href='mailto:d.v.kalach@yandex.ru'><img height="20" width="20" style="max-width: 100%;" src="icons/email.svg" alt="Email"></a> <a href='https://www.linkedin.com/in/daniilkalach/' target='https://www.linkedin.com/in/daniilkalach/'><img height="20" width="20" style="max-width: 100%;" src="icons/linkedin.svg" alt="Linkedin"></a> <a href='https://t.me/DaniilKalach' target='https://t.me/DaniilKalach'><img height="20" width="20" style="max-width: 100%;" src="icons/telegram.svg" alt="Telegram"></a>
-
+[go](http://stackoverflow.com){:target="_blank"}
