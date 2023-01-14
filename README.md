@@ -97,7 +97,7 @@ https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg
             <span>Illustrator</span>
             </td>
             <td width="96" align="center">
-            <img height="48" width="48" style="max-width: 100%;" src="https://skillicons.dev/icons?i=ae" alt="AfterEffects">
+            <img height="48" width="48" style="max-width: 100%;" src="icons/aftereffects.svg" alt="AfterEffects">
             <span>AfterEffects</span>
             </td>
             <td width="96" align="center">
